@@ -6,7 +6,7 @@ export default function NavBar() {
     <Container>
       <section className="grid grid-cols-3 place-items-center my-8 text-4xl">
         <div>
-          <h1>Kazzi</h1>
+          <h1>Kiosahii</h1>
         </div>
         <div>
           <h2>Feed</h2>
